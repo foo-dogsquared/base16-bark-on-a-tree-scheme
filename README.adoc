@@ -1,0 +1,10 @@
+= Bark on a tree
+:toc:
+
+
+It's a link:https://github.com/chriskempson/base16/[base16 scheme] for a rustic autumn feel and look with the good ol' colors of the trees.
+Inspired from link:https://www.nordtheme.com/[Nord].
+
+// TODO: Add more pictures
+.Wezterm and Neovim
+image::./assets/wezterm-and-neovim.png[Wezterm with Neovim and neofetch running, width=100%,height=100%]
